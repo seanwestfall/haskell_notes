@@ -16,3 +16,27 @@ Nothing
 ghci> (++) <$> Just "johntra" <*> Just "volta"
 Just "johntravolta"
 ```
+
+`data` :
+```haskell
+```
+
+`type` :
+```haskell
+```
+
+`newtype` :
+```haskell
+```
+
+`class` :
+```haskell
+class _ a where
+  _ :: _ -> _
+  
+```
+
+`instance` :
+```haskell
+instance _ _ where
+```
